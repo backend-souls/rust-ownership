@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Marp CLI example
+title: Rust Ownership
 description: Hosting Marp slide deck on the web
 theme: uncover
 paginate: true
